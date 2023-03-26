@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myttt/screens/gameScreen.dart';
+import 'package:tic_tac_toe/screens/gameScreen.dart';
 
 void main() {
   runApp(const MainApp());
