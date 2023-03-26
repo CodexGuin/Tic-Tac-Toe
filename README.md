@@ -4,11 +4,11 @@ A simple implementation of Tic Tac Toe game using Flutter framework.
 
 ## Screenshots
 
-![Screenshot 1](lib\assets\GameScreen.png)
+![Screenshot 1](lib/assets/GameScreen.png)
 
 ## Demo
 
-![Demo](lib\assets\GamePlayGif.gif)
+![Demo](lib/assets/GamePlayGif.gif)
 
 ## Getting Started
 
